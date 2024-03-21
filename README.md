@@ -1,3 +1,3 @@
 # site-ccm2
-## desenvolvido po: Ana Clara
+## desenvolvido por: Ana Clara
 ## Matemática II programação 1
